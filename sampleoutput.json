@@ -1,0 +1,12 @@
+{
+  "company_name": "Apple",
+  "stock_code": "AAPL",
+  "newsdesc": "Apple's iPhone 17 models are now available in Moscow stores, despite the company's official sales ban in Russia. This news appeared on benzinga.com on September 21, 2025.",
+  "sentiment": "Neutral",
+  "people_names": [],
+  "places_names": ["Moscow", "Russia"],
+  "other_companies_referred": [],
+  "related_industries": ["Technology", "Consumer Electronics"],
+  "market_implications": "The availability of Apple products in Russia despite the sales ban could have several market implications. It could indicate a potential gray market for Apple products, impacting official sales channels. It could also be seen as a sign of continued demand for Apple products in Russia, even under sanctions. This could lead to potential re-evaluation of Apple's official stance on sales in Russia in the future. If apple is not involved, it may indicate some illegal activities which can lead to negative perception of the brand.",
+  "confidence_score": 0.8
+}
